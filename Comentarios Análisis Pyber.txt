@@ -1,0 +1,19 @@
+Notas sobre los datos de Pyber Ride Sharing:
+
+* Primero, es interesante ver las diferencias en el comportamiento de las diferentes zonas, mientras que en áreas rurales 
+el número de rides por ciudad llega a un máximo de 12 y una tarifa promedio de 42.5, en áreas suburbanas se observa que el número de 
+rides por ciudad llega a 28 con una tarifa promedio máxima de 37. Finalmente, en áreas urbanas, el número máximo de rides se eleva a 40, y tarifas
+promedio máximas de ~30. Curiosamente, las tarifas promedio son más altas en zonas rurales, seguido de zonas suburbanas, pero con menos viajes
+que zonas urbanas. Esto podría explicarse porque, aunque son pocas personas relativamente, la gente de zonas rurales y suburbanas viajan a las ciudades,
+que se encuentran a una distancia mayor, por lo que la tarifa es más alta. En las ciudades, la gente viaja mucho, pero tramos más cortos, lo que 
+disminuye la tarifa pagada.
+
+* Dado que el volumen de los viajes se encuentra en las zonas urbanas, el ingreso total es mayor en estas zonas (62.7% del ingreso), seguido de las 
+zonas suburbanas, donde hay menos gente (30.5%) y apenas un 6.8% en las zonas rurales, donde viaja muy poca gente a tarifas más altas, precisamente
+la distancia hace que viajen en otro tipo de transporte más económico.
+
+* Analizando el número de viajes, se confirma el supuesto del párrafo anterior. El mayor volumen de rides se encuentra en zonas urbanas (68.4%),
+seguido de zonas suburbanas (26.3%) y un 5.3% en las zonas rurales.
+
+* Finalmente, al analizar por la suma de conductores, es más impresionante la diferencia: más del 80% está en zonas urbanas; un 12% en suburbanas
+y el 1% de zonas rurales, lo cual se puede explicar por la demanda, y en efecto el volumen de viajes hace la diferencia en el ingreso.
